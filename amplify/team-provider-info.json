@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "pocawsamplifydac92278": {}
+      },
+      "api": {
+        "pocawsamplify": {}
       }
     }
   }
