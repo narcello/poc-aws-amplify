@@ -17,6 +17,9 @@
       },
       "api": {
         "pocawsamplify": {}
+      },
+      "storage": {
+        "pocawsamplifystorage": {}
       }
     }
   }

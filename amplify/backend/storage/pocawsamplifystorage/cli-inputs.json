@@ -1,0 +1,14 @@
+{
+  "resourceName": "pocawsamplifystorage",
+  "policyUUID": "c8018d68",
+  "bucketName": "pocawsamplify678419cc0a6a4234a09598fdec5cc45e",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
